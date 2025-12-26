@@ -20,17 +20,18 @@
  </tr>
  </table>
  </div>
+ 
  ---
+ 
  ## How to Install
  1. Download the latest version of Monal IM for macOS.
- 2.
-
-
- Open the installer image and move Monal IM.app to the Applications folder.
+ 2. Open the installer image and move Monal IM.app to the Applications folder.
  3. Launch the app and allow it through macOS Gatekeeper if required.
  <br>
- <img src="https://static.macupdate.com/screenshots/288750/m/monal-screenshot.png?v=1656836331" width="900" alt="Monal IM macOS interface showing settings or account workflow">
+ <img src="https://i.ytimg.com/vi/JBgr_mEuwXg/maxresdefault.jpg" width="900" alt="Monal IM macOS interface showing settings or account workflow">
+ 
  ---
+ 
  ## Overview
  ### Enhanced Workflow for macOS
 Monal IM is implemented as an adaptable XMPP messaging client for chat and account-based communication with attention to <a href="#">macOS-native workflows</a> and predictable performance. The interface groups essential controls in a way that reduces friction during repeated tasks, keeping navigation consistent whether the user is working with quick interactions or longer, focused sessions. Internal routines follow a <a href="#">local processing model</a>, ensuring that core operations stay available even when the system is offline or under network constraints.
@@ -46,8 +47,11 @@ Monal IM is tuned to run effectively on both <a href="#">Intel</a> and <a href="
 
 ### Data Management & Long-Term Stability
 The application applies structured <a href="#">data organization practices</a> to configuration, project state and historical records. It uses cautious <a href="#">metadata handling</a> and safe update sequences to reduce the chance of inconsistent states. Over time, this emphasis on long-term stability helps Monal IM integrate into daily macOS workflows without surprising behavior when resuming older sessions or revisiting archived work.
- <img src="https://img3.yxdimg.com/2016/4/18/9d62573b-2ba8-41fc-a654-57c72199c1dd.jpeg" width="900" alt="Monal IM additional app screen showing messaging layout">
+
+ <img src="https://d4.alternativeto.net/TN4GCY2vnXPdh-BJVU5ChAsmhQOr9BuwSKjWOLRVLoU/rs:fill:618:394:1/g:no:0:0/YWJzOi8vZGlzdC9zL21vbmFsXzgxMzE0NV9mdWxsLnBuZw.jpg" width="900" alt="Monal IM additional app screen showing messaging layout">
+ 
  ---
+ 
  ## Features
  - Refined interface aligned with <a href="#">macOS design language</a>, focusing on clarity and quick access to chat sessions, account settings and message history.
 - Relies on a <a href="#">local processing model</a>, avoiding forced cloud usage and enabling work in secure environments.
